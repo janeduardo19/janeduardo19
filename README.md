@@ -21,8 +21,8 @@ My hobbies are programming and reading. I have facility to work with groups, goo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40"/>
 
 ## Contacts
-<a href="https://www.linkedin.com/in/jan-eduardo-m-barbosa-jr-ba4232203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:janeduardo14@hotmail.com"><img src="https://img.shields.io/badge/janeduardo14@hotmail.com-D14836?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jan-eduardo-m-barbosa-jr-ba4232203/" target="_blank"><img src="https://img.shields.io/badge/-Jan Eduardo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:janeduardo14@hotmail.com"><img src="https://img.shields.io/badge/janeduardo14@hotmail.com-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:janeduardo@discente.ufg.br"><img src="https://img.shields.io/badge/janeduardo@discente.ufg.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
