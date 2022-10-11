@@ -25,4 +25,8 @@ My hobbies are programming and reading. I have facility to work with groups, goo
 <a href = "mailto:janeduardo14@hotmail.com"><img src="https://img.shields.io/badge/janeduardo14@hotmail.com-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:janeduardo@discente.ufg.br"><img src="https://img.shields.io/badge/janeduardo@discente.ufg.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
