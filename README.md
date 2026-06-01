@@ -1,30 +1,40 @@
-# Hi, I am Jan Eduardo
+# Hi, I'm Jan Eduardo 👋
 
-## About me
-Software developer with a passion for data analysis. My journey began with programming challenges and evolved into exploring insights through data. Committed to continuous learning, I bring effective and collaborative solutions. Ready to contribute to innovative projects that combine technology and data analysis.
+**Data Analyst & Software Developer** — I turn raw data into decisions and ship the software that produces it.
 
-## Main Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="40">
+4+ years across analytics and full-stack development. I build automated dashboards
+(Power BI, Looker), design data pipelines (SQL, BigQuery, GA4), and develop web/mobile
+apps (Python, Java, C#, JavaScript, React). I like owning a problem end to end — from the
+SQL query to the stakeholder report to the deployed feature.
 
-## Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" width="40" height="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="40" height="40">
+📍 Based in the UK · open to **remote / contract** work worldwide
 
-## Other Knowledge
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40"/>
+---
 
-## Studying in this moment
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+### 🛠️ Tech
 
-## Areas of interests
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" width="40" height="40"/>
+**Data & Analytics** — `SQL` `BigQuery` `Power BI` `Looker` `GA4` `Google Tag Manager` `ETL` `pandas`
+**Programming** — `Python` `Java` `C#` `JavaScript` `TypeScript`
+**Web & Mobile** — `React` `React Native` `Angular` `Node.js` `REST APIs`
+**Databases & Tools** — `PostgreSQL` `SQL Server` `Docker` `Git` `Linux`
 
-## Contacts
-<a href="https://www.linkedin.com/in/jan-eduardo-m-barbosa-jr-ba4232203/" target="_blank"><img src="https://img.shields.io/badge/-Jan Eduardo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:janeduardo14@hotmail.com"><img src="https://img.shields.io/badge/janeduardo14@hotmail.com-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href = "mailto:janeduardo@discente.ufg.br"><img src="https://img.shields.io/badge/janeduardo@discente.ufg.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janeduardo19&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janeduardo19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### 📊 Featured Projects
+
+- **[project_tale](https://github.com/janeduardo19/project_tale)** — End-to-end game-telemetry
+  pipeline: opt-in collection → Python ingestion → PostgreSQL (3NF schema, FKs, indexes)
+  → 11 analytical SQL queries answering concrete product questions. *Live, collecting real data.*
+  `SQL` `PostgreSQL` `Python` `data modeling`
+- **[power_bi_analyst_financial-sample](https://github.com/janeduardo19/power_bi_analyst_financial-sample)**
+  — Financial KPI dashboard in Power BI: DAX measures, data modeling and executive reporting.
+- **[prison-break](https://github.com/janeduardo19/prison-break)** — Exploratory data analysis
+  in Python/pandas of a real-world dataset.
+- **[juice-shaders-lite](https://github.com/janeduardo19/juice-shaders-lite)** — Open-source
+  12-shader pack for Godot 4 (commercial edition on itch.io).
+
+---
+
+### 📫 Contact
+- LinkedIn: [jan-eduardo-m-barbosa-jr](https://linkedin.com/in/jan-eduardo-m-barbosa-jr-ba4232203)
+- Email: janeduardo526@gmail.com
